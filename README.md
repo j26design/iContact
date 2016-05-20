@@ -17,4 +17,4 @@ A public place to request features and report bugs for the iContact widget built
 3. Give your issue a title and add a description *(optional)* and click *Submit new issue*!
 
 ## Learn about this widget
-[<img src="https://d3chm37gkupvsm.cloudfront.net/images/iContact-video.png"/>](https://www.youtube.com/watch?v=cy53iIZzn04&list=PLIdBi4xCvURa5ZRNfXOfAyLLUAw3Vzybo)
+[<img src="https://d3chm37gkupvsm.cloudfront.net/images/icontact-video.png"/>](https://www.youtube.com/playlist?list=PLIdBi4xCvURbhSkSQNqbIMtS3gCgFrp8_)
